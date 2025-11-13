@@ -1,0 +1,129 @@
+###############################################
+#   GITIGNORE COMBINADO .NET CORE + REACT     #
+###############################################
+
+############### 
+#   GLOBAL    #
+###############
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+####################
+#   NODE / REACT   #
+####################
+
+# Dependencias
+node_modules/
+
+# Build
+dist/
+build/
+
+# Archivos temporales de Vite o React
+.vite/
+.vite_deps/
+.cache/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ambiente
+.env
+.env.*.local
+!.env.example
+
+# Editor
+.idea/
+.vscode/
+*.local
+
+###########################
+#   VISUAL STUDIO / .NET  #
+###########################
+
+## Archivos temporales de VS
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build .NET
+bin/
+obj/
+out/
+Debug/
+Release/
+[Bb]uild/
+project.lock.json
+project.fragment.lock.json
+
+## Publicaciones
+*.publishsettings
+publish/
+
+## Paquetes NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+## Logs
+*.nlog
+*.tlog
+*.svclog
+*.wrn
+*.err
+
+## Configuración de IIS Express
+/.vs/config/applicationhost.config
+
+## Secretos de usuario
+secrets.json
+
+## Certificados locales
+*.pfx
+*.p12
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+################################
+#   SISTEMA / ADICIONALES      #
+################################
+# Archivos de OS
+ehthumbs.db
+desktop.ini
+
+# Logs de dependencias
+pnpm-debug.log*
+package-lock.json
+npm-shrinkwrap.json
+
+########################
+#   DOCKER / PODMAN    #
+########################
+*.pid
+docker-compose.override.yml
+.env.docker
+
+#################################
+#  ARCHIVOS PERSONALIZADOS      #
+#################################
+# Excluir llaves privadas
+*.key
+*.pem
+
+# Excluir configuraciones locales
+config.local.json
+
+# Archivos temporales del backend en desarrollo
+wwwroot/web-front-react/node_modules/
+wwwroot/web-front-react/dist/
+
