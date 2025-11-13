@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Erick\\source\\repos\\AuthApiCore\\src\\WEB_API_CORE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59E4B3EC-FFF8-40C0-9698-DFC47050A0F6}|WEB_API_CORE\\WEB_API_CORE.csproj|c:\\users\\erick\\source\\repos\\authapicore\\src\\web_api_core\\web_api_core\\usuarios\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59E4B3EC-FFF8-40C0-9698-DFC47050A0F6}|WEB_API_CORE\\WEB_API_CORE.csproj|solutionrelative:web_api_core\\usuarios\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E4B3EC-FFF8-40C0-9698-DFC47050A0F6}|WEB_API_CORE\\WEB_API_CORE.csproj|c:\\users\\erick\\source\\repos\\authapicore\\src\\web_api_core\\web_api_core\\core\\authenticate\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59E4B3EC-FFF8-40C0-9698-DFC47050A0F6}|WEB_API_CORE\\WEB_API_CORE.csproj|solutionrelative:web_api_core\\core\\authenticate\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E4B3EC-FFF8-40C0-9698-DFC47050A0F6}|WEB_API_CORE\\WEB_API_CORE.csproj|c:\\users\\erick\\source\\repos\\authapicore\\src\\web_api_core\\web_api_core\\core\\controllers\\corecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59E4B3EC-FFF8-40C0-9698-DFC47050A0F6}|WEB_API_CORE\\WEB_API_CORE.csproj|solutionrelative:web_api_core\\core\\controllers\\corecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E4B3EC-FFF8-40C0-9698-DFC47050A0F6}|WEB_API_CORE\\WEB_API_CORE.csproj|c:\\users\\erick\\source\\repos\\authapicore\\src\\web_api_core\\web_api_core\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59E4B3EC-FFF8-40C0-9698-DFC47050A0F6}|WEB_API_CORE\\WEB_API_CORE.csproj|solutionrelative:web_api_core\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E4B3EC-FFF8-40C0-9698-DFC47050A0F6}|WEB_API_CORE\\WEB_API_CORE.csproj|c:\\users\\erick\\source\\repos\\authapicore\\src\\web_api_core\\web_api_core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59E4B3EC-FFF8-40C0-9698-DFC47050A0F6}|WEB_API_CORE\\WEB_API_CORE.csproj|solutionrelative:web_api_core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E4B3EC-FFF8-40C0-9698-DFC47050A0F6}|WEB_API_CORE\\WEB_API_CORE.csproj|c:\\users\\erick\\source\\repos\\authapicore\\src\\web_api_core\\web_api_core\\servicios\\database\\database.service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59E4B3EC-FFF8-40C0-9698-DFC47050A0F6}|WEB_API_CORE\\WEB_API_CORE.csproj|solutionrelative:web_api_core\\servicios\\database\\database.service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E4B3EC-FFF8-40C0-9698-DFC47050A0F6}|WEB_API_CORE\\WEB_API_CORE.csproj|c:\\users\\erick\\source\\repos\\authapicore\\src\\web_api_core\\web_api_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59E4B3EC-FFF8-40C0-9698-DFC47050A0F6}|WEB_API_CORE\\WEB_API_CORE.csproj|solutionrelative:web_api_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E4B3EC-FFF8-40C0-9698-DFC47050A0F6}|WEB_API_CORE\\WEB_API_CORE.csproj|c:\\users\\erick\\source\\repos\\authapicore\\src\\web_api_core\\web_api_core\\sql\\tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{59E4B3EC-FFF8-40C0-9698-DFC47050A0F6}|WEB_API_CORE\\WEB_API_CORE.csproj|solutionrelative:web_api_core\\sql\\tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E4B3EC-FFF8-40C0-9698-DFC47050A0F6}|WEB_API_CORE\\WEB_API_CORE.csproj|c:\\users\\erick\\source\\repos\\authapicore\\src\\web_api_core\\web_api_core\\middleware\\jwtcookiemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59E4B3EC-FFF8-40C0-9698-DFC47050A0F6}|WEB_API_CORE\\WEB_API_CORE.csproj|solutionrelative:web_api_core\\middleware\\jwtcookiemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59E4B3EC-FFF8-40C0-9698-DFC47050A0F6}|WEB_API_CORE\\WEB_API_CORE.csproj|c:\\users\\erick\\source\\repos\\authapicore\\src\\web_api_core\\web_api_core\\sql\\tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{59E4B3EC-FFF8-40C0-9698-DFC47050A0F6}|WEB_API_CORE\\WEB_API_CORE.csproj|solutionrelative:web_api_core\\sql\\tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 238,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoreController.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\source\\repos\\AuthApiCore\\src\\WEB_API_CORE\\WEB_API_CORE\\Core\\Controllers\\CoreController.cs",
+              "RelativeDocumentMoniker": "WEB_API_CORE\\Core\\Controllers\\CoreController.cs",
+              "ToolTip": "C:\\Users\\Erick\\source\\repos\\AuthApiCore\\src\\WEB_API_CORE\\WEB_API_CORE\\Core\\Controllers\\CoreController.cs",
+              "RelativeToolTip": "WEB_API_CORE\\Core\\Controllers\\CoreController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T23:09:59.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\source\\repos\\AuthApiCore\\src\\WEB_API_CORE\\WEB_API_CORE\\Usuarios\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "WEB_API_CORE\\Usuarios\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Erick\\source\\repos\\AuthApiCore\\src\\WEB_API_CORE\\WEB_API_CORE\\Usuarios\\UsuariosController.cs",
+              "RelativeToolTip": "WEB_API_CORE\\Usuarios\\UsuariosController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwDAAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T23:06:59.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Erick\\source\\repos\\AuthApiCore\\src\\WEB_API_CORE\\WEB_API_CORE\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WEB_API_CORE\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Erick\\source\\repos\\AuthApiCore\\src\\WEB_API_CORE\\WEB_API_CORE\\appsettings.Development.json",
+              "RelativeToolTip": "WEB_API_CORE\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-12T22:32:31.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataBase.Service.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\source\\repos\\AuthApiCore\\src\\WEB_API_CORE\\WEB_API_CORE\\Servicios\\DataBase\\DataBase.Service.cs",
+              "RelativeDocumentMoniker": "WEB_API_CORE\\Servicios\\DataBase\\DataBase.Service.cs",
+              "ToolTip": "C:\\Users\\Erick\\source\\repos\\AuthApiCore\\src\\WEB_API_CORE\\WEB_API_CORE\\Servicios\\DataBase\\DataBase.Service.cs",
+              "RelativeToolTip": "WEB_API_CORE\\Servicios\\DataBase\\DataBase.Service.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T22:30:35.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Erick\\source\\repos\\AuthApiCore\\src\\WEB_API_CORE\\WEB_API_CORE\\appsettings.json",
+              "RelativeDocumentMoniker": "WEB_API_CORE\\appsettings.json",
+              "ToolTip": "C:\\Users\\Erick\\source\\repos\\AuthApiCore\\src\\WEB_API_CORE\\WEB_API_CORE\\appsettings.json",
+              "RelativeToolTip": "WEB_API_CORE\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-12T22:27:24.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tables.sql ",
+              "DocumentMoniker": "C:\\Users\\Erick\\source\\repos\\AuthApiCore\\src\\WEB_API_CORE\\WEB_API_CORE\\SQL\\Tables.sql",
+              "RelativeDocumentMoniker": "WEB_API_CORE\\SQL\\Tables.sql",
+              "ToolTip": "C:\\Users\\Erick\\source\\repos\\AuthApiCore\\src\\WEB_API_CORE\\WEB_API_CORE\\SQL\\Tables.sql",
+              "RelativeToolTip": "WEB_API_CORE\\SQL\\Tables.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-12T22:18:03.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\source\\repos\\AuthApiCore\\src\\WEB_API_CORE\\WEB_API_CORE\\Program.cs",
+              "RelativeDocumentMoniker": "WEB_API_CORE\\Program.cs",
+              "ToolTip": "C:\\Users\\Erick\\source\\repos\\AuthApiCore\\src\\WEB_API_CORE\\WEB_API_CORE\\Program.cs",
+              "RelativeToolTip": "WEB_API_CORE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T19:04:02.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JwtCookieMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\source\\repos\\AuthApiCore\\src\\WEB_API_CORE\\WEB_API_CORE\\Middleware\\JwtCookieMiddleware.cs",
+              "RelativeDocumentMoniker": "WEB_API_CORE\\Middleware\\JwtCookieMiddleware.cs",
+              "ToolTip": "C:\\Users\\Erick\\source\\repos\\AuthApiCore\\src\\WEB_API_CORE\\WEB_API_CORE\\Middleware\\JwtCookieMiddleware.cs",
+              "RelativeToolTip": "WEB_API_CORE\\Middleware\\JwtCookieMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T19:03:45.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Erick\\source\\repos\\AuthApiCore\\src\\WEB_API_CORE\\WEB_API_CORE\\Core\\Authenticate\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WEB_API_CORE\\Core\\Authenticate\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Erick\\source\\repos\\AuthApiCore\\src\\WEB_API_CORE\\WEB_API_CORE\\Core\\Authenticate\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WEB_API_CORE\\Core\\Authenticate\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T19:01:24.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
